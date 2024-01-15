@@ -1,2 +1,2 @@
 # voyager
-Voyager is a next-generation app in development
+Voyager is a note-taking in development
