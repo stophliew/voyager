@@ -1,2 +1,2 @@
 # voyager
-Voyager is a note-taking in development
+Voyager is a next-generation software in development
